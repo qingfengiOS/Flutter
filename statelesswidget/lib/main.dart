@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp("Hello World"));
 
 /**
- * 1、继承tatelessWidget
+ * 1、继承StatelessWidget
  * 2、实现build函数，返回一个widget 
  *  */
 class MyApp extends StatelessWidget {
